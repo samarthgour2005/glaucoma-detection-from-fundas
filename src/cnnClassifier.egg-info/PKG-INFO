@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.2
+Summary: a package for glaucoma detection from fundus images using cnn
+Home-page: https://github.com/samarthgour2005/glaucoma-detection-from-fundas
+Author: samarthgour2005
+Author-email: samarthgour2005@gmail.com
+Project-URL: Bug Tracker, https://github.com/samarthgour2005/glaucoma-detection-from-fundas/issues
+License-File: LICENSE
+
+# glaucoma-detection-from-fundas
